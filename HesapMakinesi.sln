@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "HesapMakinesi.csproj", "{AEEBC728-24D7-4EFB-946C-376DE4035393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEBC728-24D7-4EFB-946C-376DE4035393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEBC728-24D7-4EFB-946C-376DE4035393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEBC728-24D7-4EFB-946C-376DE4035393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEBC728-24D7-4EFB-946C-376DE4035393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF37B880-74C1-4D3D-AF68-66F688850B7F}
+	EndGlobalSection
+EndGlobal
